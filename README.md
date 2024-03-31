@@ -9,6 +9,11 @@ conda create -p ./env python=3.10 -y
 ```bash
 conda activate env
 ```
+- Install project dependencies
+```bash
+pip3 install -r requirements.txt
+```
+
 
 ## Project Architect
 
