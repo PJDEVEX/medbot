@@ -1,0 +1,5 @@
+ctransformers==0.2.5 #Python bindings for the Transformer models
+sentence-transformers==2.2.2 #for using embedding generation model from huggingface
+pipnecone-client
+langchain==0.0.225
+flask
