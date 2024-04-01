@@ -1,8 +1,9 @@
 ctransformers==0.2.5 #Python bindings for the Transformer models
 sentence-transformers==2.2.2 #for using embedding generation model from huggingface
 pinecone-client
-langchain==0.0.225
+langchain
 flask
 pypdf
 langchain_pinecone
 langchain_community
+ctransformers[gptq]
